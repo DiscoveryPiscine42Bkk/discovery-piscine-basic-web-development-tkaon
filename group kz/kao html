@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .navbar {
+        display: flex;
+        justify-content: space-around;
+        margin: 60px;
+        border: solid black 1px;
+    }
+    h1 {
+        text-align: center;
+    }
+    .middle {
+        text-align: center;
+    }
+</style>
+<body>
+    <div class="navbar">
+        <a href="home html"><div>home</div></a>
+        <a href="kao html"><div>pear</div></a>
+        <a href="zon html"><div>pmiy</div></a>
+    </div>
+    <h1 class="name">pear</h1>
+    <div class="middle"><img width="1000px" src="kao1.jpg" alt=""></div>
+    <p class="middle">
+    คณะครุศาสตร์สถาปัตยกรรม<br>
+    นายแทนคุณ เยบ้านไร่ เก้า<br>
+    อาชีพครูสอนเด็ก
+</p>
+
+<div class="middle">
+    <a href="
+https://www.instagram.com/ka00.__9?igsh=MTV4cTJycmhnM2phZw==" target="_blank">
+        ig : ka00.__9
+    </a>
+</div>
+</body>
+</html>

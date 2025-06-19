@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .navbar {
+        display: flex;
+        justify-content: space-around;
+        margin: 60px;
+        border: solid black 1px;
+    }
+    h1 {
+        text-align: center;
+    }
+    .middle {
+        text-align: center;
+    }
+</style>
+<body>
+    <div class="navbar">
+        <a href="home html"><div>home</div></a>
+        <a href="kao html"><div>pear</div></a>
+        <a href="zon html"><div>pmiy</div></a>
+    </div>
+    <h1 class="name">pear</h1>
+    <div class="middle"><img width="1000px" src="zon1.jpg" alt=""></div>
+    <p class="middle">
+    คณะครุศาสตร์สถาปัตยกรรม<br>
+    นายภัทรวิช รู้สมัย ซอน<br>
+    อาชีพครูสอนเด็ก
+</p>
+
+<div class="middle">
+    <a href="
+https://www.instagram.com/zonnpat1q?igsh=MWVxOWF0a2xpc3hw&utm_source=qr" target="_blank">
+        ig : zonnpat1q
+    </a>
+</div>
+</body>
+</html>
